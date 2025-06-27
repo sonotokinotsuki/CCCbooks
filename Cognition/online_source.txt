@@ -1,0 +1,3 @@
+1.Embodied Cognition	https://plato.stanford.edu/entries/embodied-cognition/
+2.https://github.com/BioRAILab/Neural-Brain-for-Embodied-Agents (with Ref)
+3.Congtive Neurodynamics https://link.springer.com/journal/11571
